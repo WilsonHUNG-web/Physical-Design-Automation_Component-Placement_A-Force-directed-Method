@@ -1,0 +1,5 @@
+NumNets 2
+NumModules 6
+
+NET n1 { sb0 IO0 IO1 IO2 }
+NET n2 { sb1 IO3 }

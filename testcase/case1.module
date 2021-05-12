@@ -1,0 +1,10 @@
+grid 4 4
+NumModules 1
+NumIOs 4
+
+sb0 hardrectilinear (0, 0) (2, 2) 
+
+IO0 hardrectilinear (0, 0) (1, 1) 
+IO1 hardrectilinear (0, 0) (1, 1) 
+IO2 hardrectilinear (0, 0) (1, 1) 
+IO3 hardrectilinear (0, 0) (1, 1) 

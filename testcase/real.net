@@ -1,0 +1,94 @@
+NumNets 90
+NumModules 40
+
+NET n1 { u_core_context IO0 }
+NET n2 { u_core_context IO1 }
+NET n3 { u_core_context IO2 }
+NET n4 { u_core_context IO3 }
+NET n5 { u_core_context IO4 }
+NET n6 { u_core_context IO5 }
+NET n7 { u_core_context IO6 }
+NET n8 { u_core_context IO7 }
+NET n9 { u_core_context IO8 }
+NET n10	{ u_core_context IO9 }
+NET n11	{ u_core_context IO10 }
+NET n12	{ u_core_context IO11 }
+NET n13	{ u_core_context IO12 }
+NET n14	{ u_core_context IO13 }
+NET n15	{ u_core_context IO14 }
+NET n16	{ u_core_context IO15 }
+NET n17	{ u_core_context IO16 }
+NET n18	{ u_core_context IO17 }
+NET n19	{ u_core_context IO18 }
+NET n20	{ u_core_context IO19 }
+NET n21	{ u_core_context IO20 }
+NET n22	{ u_core_context IO21 }
+NET n23	{ u_core_context IO22 }
+NET n24	{ u_core_context IO23 }
+NET n25	{ u_core_context IO24 }
+NET n26	{ u_core_context IO25 }
+NET n27	{ u_core_context IO26 }
+NET n28	{ u_core_context IO27 }
+NET n29	{ u_core_context IO28 }
+NET n30	{ u_core_context IO29 }
+NET n31	{ u_core_context IO30 }
+NET n32	{ u_core_context IO31 }
+NET n33	{ u_core_context IO32 }
+NET n34	{ u_core_context IO33 }
+NET n35	{ u_core_context IO34 }
+NET n36	{ u_core_context IO35 }
+NET n37	{ u_core_context IO36 }
+NET n38	{ u_core_context u_mem_context2 }
+NET n39	{ u_core_context u_mem_context2 }
+NET n40	{ u_core_context u_mem_context2 }
+NET n41	{ u_core_context u_mem_context2 }
+NET n42	{ u_core_context u_mem_context2 }
+NET n43	{ u_core_context u_mem_context2 }
+NET n44	{ u_core_context u_mem_context2 }
+NET n45	{ u_core_context u_mem_context2 }
+NET n46	{ u_core_context u_mem_context2 }
+NET n47	{ u_core_context u_mem_context2 }
+NET n48	{ u_core_context u_mem_context2 }
+NET n49	{ u_core_context u_mem_context2 }
+NET n50	{ u_core_context u_mem_context2 }
+NET n51	{ u_core_context u_mem_context2 }
+NET n52	{ u_core_context u_mem_context2 }
+NET n53	{ u_core_context u_mem_context2 }
+NET n54	{ u_core_context u_mem_context2 }
+NET n55	{ u_core_context u_mem_context2 }
+NET n56	{ u_core_context u_mem_context2 }
+NET n57	{ u_core_context u_mem_context2 }
+NET n58	{ u_core_context u_mem_context2 }
+NET n59	{ u_core_context u_mem_context2 }
+NET n60	{ u_core_context u_mem_context2 }
+NET n61	{ u_core_context u_mem_context2 }
+NET n62	{ u_core_context u_mem_context2 }
+NET n63	{ u_core_context u_mem_context2 }
+NET n64	{ u_core_context u_mem_context2 }
+NET n65	{ u_core_context u_mem_context2 }
+NET n66	{ u_core_context u_mem_context2 }
+NET n67	{ u_core_context u_mem_context2 }
+NET n68	{ u_core_context u_mem_context2 }
+NET n69	{ u_core_context u_mem_context2 }
+NET n70	{ u_core_context u_mem_context2 }
+NET n71	{ u_core_context u_mem_context2 }
+NET n72	{ u_core_context u_mem_context2 }
+NET n73	{ u_core_context u_mem_context2 }
+NET n74	{ u_core_context u_mem_context2 }
+NET n75	{ u_core_context u_mem_context2 }
+NET n76	{ u_core_context u_mem_context2 }
+NET n77	{ u_core_context u_mem_context2 }
+NET n78	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n79	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n80	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n81	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n82	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n83	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n84	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n85	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n86	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n87	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n88	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n89	{ u_core_context u_mem_context2 u_mem_context2 }
+NET n90	{ u_core_context u_mem_context2 u_mem_context2 }
+
