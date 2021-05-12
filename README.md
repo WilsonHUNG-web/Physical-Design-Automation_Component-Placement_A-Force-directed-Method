@@ -3,11 +3,14 @@ Ref. H. Eisenmann and F. M. Johannes, "Generic global placement and floorplannin
 Kraftwerk is a force-directed based global placement method.<br>
 This tool is a modified version of Kraftwerk. It aims to deal with component placement such as chiplet placement on a give floorplan.<p>
 
+
 --How to compile<br>
+In the directory './src':
 ```
 $make
 ```
 --How to run<br>
+In the directory './src':
 ```
-$./main net
+$../bin/main ../testcase/case1.module ../testcase/case1.net
 ```
